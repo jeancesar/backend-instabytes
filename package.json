@@ -18,13 +18,13 @@
   "bugs": "",
   "keywords": [],
   "author": {
-    "name": "",
-    "email": "",
-    "url": ""
+    "name": "Jean Cesar",
+    "email": "contato@jeancesar.com.br",
+    "url": "https://jeancesar.dev"
   },
   "contributors": [],
   "scripts": {
-    "dev": "",
+    "dev": "node --watch --env-file=.env server.js",
     "test": ""
   },
   "dependencies": {
